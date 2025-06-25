@@ -1,2 +1,1 @@
-# workshop-ms-fabric-de
-MIcrosoft Fabric Workshop
+Microsoft Fabric Workshop
